@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|c:\\users\\user\\desktop\\spacewarproject\\winformsapp1\\gamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:gamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\gamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:gamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|c:\\users\\user\\desktop\\spacewarproject\\winformsapp1\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|c:\\users\\user\\desktop\\spacewarproject\\winformsapp1\\spacewargame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:spacewargame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|c:\\users\\user\\desktop\\spacewarproject\\winformsapp1\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|c:\\users\\user\\desktop\\spacewarproject\\winformsapp1\\gamewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:gamewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\introform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:introform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|c:\\users\\user\\desktop\\spacewarproject\\winformsapp1\\fastenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:fastenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|c:\\users\\user\\desktop\\spacewarproject\\winformsapp1\\collisondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:collisondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|c:\\users\\user\\desktop\\spacewarproject\\winformsapp1\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94908CCA-9EEC-414D-908B-5AE2AF925742}|spaceWar.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "BasicEnemy.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\BasicEnemy.cs",
+              "RelativeToolTip": "BasicEnemy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:25:00.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gameWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\gameWindow.cs",
+              "RelativeDocumentMoniker": "gameWindow.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\gameWindow.cs [Design]",
+              "RelativeToolTip": "gameWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:48:03.71Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gameWindow.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\gameWindow.cs",
+              "RelativeDocumentMoniker": "gameWindow.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\gameWindow.cs",
+              "RelativeToolTip": "gameWindow.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAYwCcBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:22:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IntroForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\IntroForm.cs",
+              "RelativeDocumentMoniker": "IntroForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SpaceWar\\spaceWarProject\\WinFormsApp1\\IntroForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\SpaceWar\\spaceWarProject\\WinFormsApp1\\IntroForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:13:32.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\Spaceship.cs",
+              "RelativeDocumentMoniker": "Spaceship.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\Spaceship.cs",
+              "RelativeToolTip": "Spaceship.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA2wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:15:39.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollisonDetector.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\CollisonDetector.cs",
+              "RelativeDocumentMoniker": "CollisonDetector.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\CollisonDetector.cs",
+              "RelativeToolTip": "CollisonDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:14:18.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpaceWarGame.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\SpaceWarGame.cs",
+              "RelativeDocumentMoniker": "SpaceWarGame.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\SpaceWarGame.cs",
+              "RelativeToolTip": "SpaceWarGame.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAuwBgBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:50:21.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gameWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\gameWindow.Designer.cs",
+              "RelativeDocumentMoniker": "gameWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\gameWindow.Designer.cs",
+              "RelativeToolTip": "gameWindow.Designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:14:09.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FastEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\FastEnemy.cs",
+              "RelativeDocumentMoniker": "FastEnemy.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\FastEnemy.cs",
+              "RelativeToolTip": "FastEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:25:52.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "score.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\score.cs",
+              "RelativeDocumentMoniker": "score.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\score.cs [Design]",
+              "RelativeToolTip": "score.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:15:41.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\Bullet.cs",
+              "RelativeDocumentMoniker": "Bullet.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\spaceWarProject\\WinFormsApp1\\Bullet.cs",
+              "RelativeToolTip": "Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:31:09.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
